@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	pb "github.com/NanXiao/client/api"
+	pb "github.com/docker/swarmkit/api"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )
